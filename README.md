@@ -1,0 +1,1 @@
+A work-in-progress emulator for the Nintendo GameBoy Advance. Prolly won't ever be finished. Does not function.
